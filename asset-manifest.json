@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Doctors-App/static/css/main.6f657270.css",
-    "main.js": "/Doctors-App/static/js/main.e8a27041.js",
+    "main.css": "/Doctors-App/static/css/main.40fd0f7e.css",
+    "main.js": "/Doctors-App/static/js/main.97902a59.js",
     "static/media/clinical nutrition & dietetics.svg": "/Doctors-App/static/media/clinical nutrition & dietetics.bb12767103eaa9863c5bc4fcaedfcaba.svg",
     "static/media/banner.svg": "/Doctors-App/static/media/banner.3ab65c09836746d2984d27c3a380ac7b.svg",
     "static/media/cosmetology.svg": "/Doctors-App/static/media/cosmetology.671ffbce5a67121c9065b089438d5d99.svg",
@@ -26,11 +26,11 @@
     "static/media/roboto-greek-ext-500-normal.woff2": "/Doctors-App/static/media/roboto-greek-ext-500-normal.6fb9cffb1d3e72bf9293.woff2",
     "static/media/roboto-greek-ext-500-normal.woff": "/Doctors-App/static/media/roboto-greek-ext-500-normal.eaa367bbd0b333a7f80b.woff",
     "index.html": "/Doctors-App/index.html",
-    "main.6f657270.css.map": "/Doctors-App/static/css/main.6f657270.css.map",
-    "main.e8a27041.js.map": "/Doctors-App/static/js/main.e8a27041.js.map"
+    "main.40fd0f7e.css.map": "/Doctors-App/static/css/main.40fd0f7e.css.map",
+    "main.97902a59.js.map": "/Doctors-App/static/js/main.97902a59.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f657270.css",
-    "static/js/main.e8a27041.js"
+    "static/css/main.40fd0f7e.css",
+    "static/js/main.97902a59.js"
   ]
 }
