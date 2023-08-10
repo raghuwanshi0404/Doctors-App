@@ -14,7 +14,7 @@ import '../App.css';
 import Box from '@mui/material/Box';
 import '@fontsource/roboto/500.css';
 import Typography from '@mui/material/Typography';
-
+import { Link } from 'react-router-dom';
 import CardContent   from '@mui/material/CardContent';
 
 
@@ -22,7 +22,7 @@ export default function Home() {
 	return (
 
 		<>
-			<Box sx={{ width: "100vw", height: "40%" }}>
+			<Box sx={{ width: "100vw", height: "40%" }}  component={Link} to="/">
 				<img src={Banner} className="bannerImg" alt="logo" />
 			</Box>
 			<Typography variant="h3" gutterBottom sx={{ p: 2, color: "#3f51b5" }}>

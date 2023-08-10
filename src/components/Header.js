@@ -28,7 +28,7 @@ function Header() {
 					<Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
 						MyDoctor
 					</Typography>
-					<Link to="/auth/login">	<Button sx={{ backgroundColor: '#3f51b5', color:'white' }}>Login</Button></Link>
+					<Link to="/auth/login">	<Button className='' sx={{ backgroundColor: '#3f51b5', color:'white' }}>Login</Button></Link>
 				</Toolbar>
 			</AppBar>
 		</Box>

@@ -1,3 +1,8 @@
-img {
-    width: 80px;
+.App-logo {
+    width: 123px;
+    height: 48px;
+    padding-left: 23px;
+}
+.headerBtn:hover{
+    background-color: #3f51b5;
 }

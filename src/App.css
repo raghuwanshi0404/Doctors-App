@@ -64,3 +64,6 @@ p{
        justify-content: center;
         margin: 0  10px 10px 20px;
 }
+.cards img{
+  width: 130px;
+}
